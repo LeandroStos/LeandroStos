@@ -1,4 +1,4 @@
-## Olá, amigos sou o Leandro Borges, buscando conhecimentos neste mundão de programação e tecnologia!
+## Olá, amigos sou o Leandro Borges 👋
 - ⚡😉
 <div align="center">
   <a href="https://github.com/LeandroStos/LeandroStos">
