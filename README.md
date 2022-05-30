@@ -1,8 +1,8 @@
 ## Olá, amigos sou o Leandro Borges 👋
 - ⚡😉
 <div align="center">
-  <a href="https://github.com/LeandroStos/pve_lsantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pve_lsantos&show_icons=true&theme=merko&include_all_commits=true&count_public=true&&count_public=false"/>
+  <a href="https://github.com/LeandroStos/LeandroStos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroStos&show_icons=true&theme=merko&include_all_commits=true&count_public=true&&count_public=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroStos&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
