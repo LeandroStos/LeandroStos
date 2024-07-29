@@ -1,4 +1,4 @@
-## Olá, amigos sou o Leandro Borges 👋
+## Olá, amigos 👋
 - ⚡😉
 <div align="center">
   <a href="https://github.com/LeandroStos/LeandroStos">
